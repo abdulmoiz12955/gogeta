@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "gogeta_ascension:item/big_bang_kamehameha_scroll"
+  }
+}

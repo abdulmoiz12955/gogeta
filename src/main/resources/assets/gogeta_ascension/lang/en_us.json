@@ -1,0 +1,12 @@
+{
+  "itemGroup.gogeta_ascension": "Gogeta: Ascension",
+  "item.gogeta_ascension.ascension_chronicle": "Ascension Chronicle",
+  "item.gogeta_ascension.bankai_blade": "Bankai Blade",
+  "item.gogeta_ascension.stardust_breaker_scroll": "Ki Scroll: Stardust Breaker",
+  "item.gogeta_ascension.kamehameha_scroll": "Ki Scroll: Kamehameha",
+  "item.gogeta_ascension.big_bang_kamehameha_scroll": "Ki Scroll: Big Bang Kamehameha",
+  "item.gogeta_ascension.meteor_combination_scroll": "Ki Scroll: Meteor Combination",
+  "entity.gogeta_ascension.ki_blast": "Ki Blast",
+  "entity.gogeta_ascension.getsuga": "Getsuga Tensho",
+  "gamerule.gogetaTerrainDestruction": "Gogeta Ki Attacks & Getsuga Terrain Destruction"
+}
